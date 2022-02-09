@@ -6,21 +6,22 @@
  }
  
  body {
-     background-color: rgba(0, 0, 0, 0.925)
+     background-color: rgb(100, 26, 156)
  }
- 
+ /* (100, 26, 156) */
  main {
      background-color: rgb(255, 255, 255);
-     height: 450px;
-     width: 700px;
+     height: 550px;
+     width: 750px;
      margin: auto;
      padding: 10px;
      box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.404);
      border-radius: 10px;
  }
- 
+
  h1 {
-     color:rgb(189, 27, 27)
+     color:rgb(28, 36, 151);
+     text-align: center;
  }
  
  textarea {
@@ -28,6 +29,10 @@
      height: 8em;
  }
 
-/* form input[type="submit"] {
+ input [type="text"] {
+    width: 15em;
+ }
+ 
+ /* form input[type="submit"] {
 
  } */
