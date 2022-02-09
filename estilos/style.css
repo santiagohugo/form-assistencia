@@ -11,7 +11,7 @@
  
  main {
      background-color: rgb(255, 255, 255);
-     height: 650px;
+     height: 450px;
      width: 700px;
      margin: auto;
      padding: 10px;
@@ -28,7 +28,6 @@
      height: 8em;
  }
 
- 
 /* form input[type="submit"] {
 
  } */
