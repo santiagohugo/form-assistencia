@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@300&display=swap');
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+ }
+ 
+ body {
+     background-color: rgba(0, 0, 0, 0.925)
+ }
+ 
+ main {
+     background-color: rgb(255, 255, 255);
+     height: 650px;
+     width: 700px;
+     margin: auto;
+     padding: 10px;
+     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.404);
+     border-radius: 10px;
+ }
+ 
+ h1 {
+     color:rgb(189, 27, 27)
+ }
+ 
+ textarea {
+     width: 25em;
+     height: 8em;
+ }
+
+ 
+/* form input[type="submit"] {
+
+ } */
