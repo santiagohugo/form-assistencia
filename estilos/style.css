@@ -11,7 +11,6 @@
  /* (100, 26, 156) */
  main {
      background-color: rgb(255, 255, 255);
-     height: 550px;
      width: 750px;
      margin: auto;
      padding: 10px;
@@ -20,7 +19,7 @@
  }
 
  h1 {
-     color:rgb(28, 36, 151);
+     color:rgb(22, 78, 182);
      text-align: center;
  }
  
@@ -32,7 +31,3 @@
  input [type="text"] {
     width: 15em;
  }
- 
- /* form input[type="submit"] {
-
- } */
